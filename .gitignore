@@ -1,0 +1,10 @@
+**/__pycache__/
+**/wandb/
+**/lwm
+
+**/jobs/
+**/results/
+**/plots/
+**/outputs/
+**/experiment_output/
+**/vipra_checkpoints/

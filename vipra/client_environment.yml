@@ -1,0 +1,16 @@
+name: vipra-client
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - opencv
+  - matplotlib
+  - tqdm
+  - pillow
+  - pip:
+    - requests
+    - urllib3
+    - orjson  # optional, faster JSON processing
