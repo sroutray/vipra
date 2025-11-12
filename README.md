@@ -423,19 +423,19 @@ conda activate vipra-client
 
 ## Citation
 
-If you find our code or models useful in your work, please cite:
+If you find our code or models useful in your work, please cite [ViPRA](https://arxiv.org/abs/2511.07732):
 
 ```bibtex
-@inproceedings{routray2025vipra,
-  title        = {ViPRA: Video Prediction for Robot Actions},
-  author       = {Routray, Sandeep and Pan, Hengkai and Jain, Unnat and Bahl, Shikhar and Pathak, Deepak},
-  booktitle    = {NeurIPS 2025 Workshop on Embodied World Models for Decision Making},
-  year         = {2025},
-  month        = dec
+@misc{routray2025vipra,
+      title={ViPRA: Video Prediction for Robot Actions}, 
+      author={Sandeep Routray and Hengkai Pan and Unnat Jain and Shikhar Bahl and Deepak Pathak},
+      year={2025},
+      eprint={2511.07732},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2511.07732}, 
 }
 ```
-
-(ArXiv / full paper link coming soon.)
 
 ---
 
