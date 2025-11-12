@@ -8,8 +8,8 @@
 </picture>
 
 <p>
-    <a href="https://arxiv.org/abs/XXXX.XXXXX">
-        <img src="https://img.shields.io/badge/arXiv-Coming Soon!-b31b1b.svg" alt="Paper">
+    <a href="https://arxiv.org/abs/2511.07732">
+        <img src="https://img.shields.io/badge/arXiv-2511.07732-b31b1b.svg" alt="Paper">
     </a>
     <a href="https://vipra-project.github.io">
         <img src="https://img.shields.io/badge/Project-Page-green.svg" alt="Project Page">
