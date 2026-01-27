@@ -37,8 +37,10 @@
 
 ## News
 
-- **[2025/10/13]** ViPRA accepted for an **Oral** at the [NeurIPS 2025 EWM Workshop](https://embodied-world-models.github.io/). 
-- **[2025/10/01]** ViPRA accepted at the [NeurIPS 2025 SpaVLE Workshop](https://space-in-vision-language-embodied-ai.github.io/).
+- **[2026/01/26]** ViPRA accepted at [ICLR 2026](https://openreview.net/forum?id=w3Ik8HUyTT). 
+- **[2025/12/06]** ViPRA won the **Best Paper Award** at [NeurIPS 2025 EWM Workshop](https://embodied-world-models.github.io/). 
+- **[2025/10/13]** ViPRA accepted for an **Oral** at [NeurIPS 2025 EWM Workshop](https://embodied-world-models.github.io/). 
+- **[2025/10/01]** ViPRA accepted at [NeurIPS 2025 SpaVLE Workshop](https://space-in-vision-language-embodied-ai.github.io/).
 
 ---
 
